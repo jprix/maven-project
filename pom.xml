@@ -24,7 +24,7 @@
 		<configuration>
 			<deploymentType>cloudhub</deploymentType>
 			 <muleVersion>3.8.2</muleVersion>
-			<username>${username}</username> 
+			<username>jsonp_presales</username> 
 			<password>${password}</password>
 			<workerType>Micro</workerType>
 			 <redeploy>true</redeploy> 
